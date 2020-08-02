@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... React.js and Firebase.
 
 <h5>Languages and Tools:</h5>
-<p align='center'>
+<p>
 <img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/icons8-javascript-48.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/icons8-react-40.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/icons8-nodejs-48.png">&nbsp;&nbsp;
