@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h2>
+
+<p align="center">I'm Abhijeet.R.Kushwaha a creative web developer based in Mumbai,India. I'm currently a third year student at Dnyanasadhana College,University of Mumbai pursuing a degree in Information and Technology. I always look for an opportunity to code,design and  to learn new skills. In my spare time,I enjoy painting and doing cardio exercise.</p>
