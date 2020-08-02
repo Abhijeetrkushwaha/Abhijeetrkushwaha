@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/abhijeet-kushwaha-1882a41a5/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h2>
+<h5 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h5>
 
-<p align="center">I'm Abhijeet.R.Kushwaha a creative web developer based in Mumbai,India. I'm currently a third year student at Dnyanasadhana College,University of Mumbai pursuing a degree in Information and Technology. I always look for an opportunity to code,design and  to learn new skills. In my spare time,I enjoy painting and doing cardio exercise.</p>
+<p align="center">I'm Abhijeet.R.Kushwaha a creative web developer based in Mumbai,India.</p>
