@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 <p align="center">I'm Abhijeet.R.Kushwaha a creative web developer based in Mumbai,India.</p>
 
-- 🔭 I’m currently working on ... Fullstack Project
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ... Fullstack Project.
+- 🌱 I’m currently learning ... React.js and Firebase.
