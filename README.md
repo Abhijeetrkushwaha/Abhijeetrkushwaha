@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Abhijeetrkushwaha/Abhijeetrkushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/abhijeetkwh/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhijeet-kushwaha-1882a41a5/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/linkedin.png"></a>&nbsp;&nbsp;
 </p>
+
+<h2 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h2>
