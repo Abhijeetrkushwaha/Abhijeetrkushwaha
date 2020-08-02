@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <h5 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h5>
 
 <p align="center">I'm Abhijeet.R.Kushwaha a creative web developer based in Mumbai,India.</p>
+
+- 🔭 I’m currently working on ... Fullstack Project
+- 🌱 I’m currently learning ...
