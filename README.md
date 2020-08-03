@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">I'm a creative web developer based in Mumbai,India.</p>
 
-- 🔭 I’m currently working on ... Gitsearch a react app that shows a better look of your github profile.
+- 🔭 I’m currently working on ... Gitsearch.
 - 🌱 I’m currently learning ... React.js and Firebase.
 - ⚡ Fun fact: ...I love to draw and do cardio exercises.
 
