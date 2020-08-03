@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h5 align="center">Hello there! My name is Abhijeet Kushwaha. 👋🤓</h5>
 
-<p align="center">A creative web developer based in Mumbai,India.</p>
+<p align="center">I'm a creative web developer based in Mumbai,India.</p>
 
 - 🔭 I’m currently working on ... Fullstack Project.
 - 🌱 I’m currently learning ... React.js and Firebase.
