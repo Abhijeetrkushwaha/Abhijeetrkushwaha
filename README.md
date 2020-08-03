@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...I love to draw and play guitar / drums
 -->
 # [![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/68747470733a2f2f616268696a6565746b77682e6d652f496d616765732f486f6d652d706167652e706e67.png)](https://abhijeetkwh.me)
 <p align='center'>
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Fullstack Project.
 - 🌱 I’m currently learning ... React.js and Firebase.
+- ⚡ Fun fact: ...I love to draw and do cardio exercises.
 
 <h5>Languages and Tools:</h5>
 <p>
