@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Chat application
 - 🌱 I’m currently learning ... React.js and Firebase.
-- ⚡ Fun fact: ...I love to draw and do cardio exercises.
+- ⚡ Fun fact: ...I love to draw.
 
 <h5>Languages and Tools:</h5>
 <p>
