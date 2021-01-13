@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love to draw and play guitar / drums
 -->
-# [![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/two.gif)](https://abhijeetkwh.vercel.app/)
+
+<div align="center">
+  # [![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/two.gif)](https://abhijeetkwh.vercel.app/)
+</div>
 <p align='center'>
 <a href="https://twitter.com/Abhijeetkwh"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abhijeetkwh/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/instagram.jpg"></a>&nbsp;&nbsp;
