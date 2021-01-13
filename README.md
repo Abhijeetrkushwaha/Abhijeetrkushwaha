@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...I love to draw and play guitar / drums
 -->
 
-# [<p align="center">![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/two.gif)</p>](https://abhijeetkwh.vercel.app/)
+# [<p align="center">![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/three.gif)</p>](https://abhijeetkwh.vercel.app/)
 <p align="center">
 <a href="https://twitter.com/Abhijeetkwh"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abhijeetkwh/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/instagram.jpg"></a>&nbsp;&nbsp;
