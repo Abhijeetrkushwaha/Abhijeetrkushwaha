@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # [![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/two.gif)](https://abhijeetkwh.vercel.app/)
-<p align='center'>
+<p >
 <a href="https://twitter.com/Abhijeetkwh"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abhijeetkwh/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/instagram.jpg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhijeet-kushwaha-1882a41a5/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/linkedin.png"></a>&nbsp;&nbsp;
