@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # [<p align="center">![Abhijeet Kushwaha header](https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/three.gif)</p>](https://abhijeetkwh.vercel.app/)
-<p align="center"> ![](https://visitor-badge.glitch.me/badge?page_id=Abhijeetrkushwaha) </p>
+<p align="center">
+    <img alt="Repository languages count" src="https://visitor-badge.glitch.me/badge?page_id=Abhijeetrkushwaha">
+</p>
 <p align="center">
 <a href="https://twitter.com/Abhijeetkwh"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/abhijeetkwh/"><img height="30" src="https://github.com/Abhijeetrkushwaha/Abhijeetrkushwaha/blob/master/instagram.jpg"></a>&nbsp;&nbsp;
