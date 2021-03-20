@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <p align="center">I'm a creative web developer based in Mumbai,India.</p>
 
-- 🔭 I’m currently working on ... Devhub (social platform for developers)
+- 🔭 I’m currently working on ... Fullstack project.
 - 🌱 I’m currently learning ... React.js and Firebase.
 - ⚡ Fun fact: ...I love to draw.
 
